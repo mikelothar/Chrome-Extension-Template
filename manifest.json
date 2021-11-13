@@ -1,5 +1,6 @@
 {
   "name": "Chrome Plugin Template",
+  "description": "This is a template for making a Chrome Plugin.",
   "version": "1.0.0",
   "manifest_version": 3,
   "content_scripts": [
