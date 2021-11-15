@@ -1,6 +1,6 @@
 {
-  "name": "Chrome Plugin Template",
-  "description": "This is a template for making a Chrome Plugin.",
+  "name": "Chrome Extension Template",
+  "description": "This is a template for making a Chrome Extension.",
   "version": "1.0.0",
   "manifest_version": 3,
   "content_scripts": [
@@ -20,7 +20,7 @@
     "storage"
   ],
   "action": {
-    "default_title": "Chrome Plugin Template",
+    "default_title": "Chrome Extension Template",
     "default_icon": {
       "16": "assets/icon-16.png",
       "32": "assets/icon-32.png",
